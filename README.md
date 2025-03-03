@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavi-sharm" alt="lavi-sharm" /></a> </p>
 
-- 🔭 I’m currently working on [irisClassification](https://github.com/lavi-sharm/IrisClassification)
+- 🔭 I’m currently working at FINO Mumbai(https://www.finobank.com/)
 
-- 🌱 I’m currently learning **React, AI**
+- 🌱 I’m currently learning **Jenkins CI/CD pipelines & Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lavi-sharm](https://github.com/lavi-sharm)
 
